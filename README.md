@@ -8,3 +8,7 @@ I want to contribute to a better society, developing solutions to make life easi
 - 🔭 I’m currently working with delivery apps made with AngularJS and React
 - 🌱 I’m currently learning Typescript
 - ⚡ Fun fact: I am very interested and have a lot of knowledge in photography and content production aligned to digital marketing 🤓. I also like to play some FPS games like Counter Strike: Global Offensive 🎮
+
+</br>
+
+![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthurgmalheiros&show_icons=true)
