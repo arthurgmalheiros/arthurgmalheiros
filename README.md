@@ -1,16 +1,49 @@
 ## Hi there 👋
-I'm Arthur—a front-end web developer working with Vue.js using typescript currently on professional projects and studying new tools like React, React native and Node JS on my personal projects. I work for 4 years professionally in the area and I am passionate about everything related to design and clean code 😎
+Hi! I'm Software Engineer with 9+ years of experience building scalable web applications, with a strong focus on frontend development, usability, and user experience. I’m passionate about creating intuitive, high-quality interfaces that balance business goals, technical excellence, and real user needs. Throughout my career, I have worked with technologies such as React, Next.js, and TypeScript, while also contributing to architectural decisions, developer experience improvements, and the evolution of modern frontend platforms
 
 ### My values
 I want to contribute to a better society, developing solutions to make life easier for everyone who uses and shares technology in their daily lives. I am always looking for new challenges in my career and I want to continue developing and contributing to the construction of effective business results 🚀
 
-- 📫 How to reach me: [Email](mailto:arthurgoncalvesmalheiros@gmail.com) or [Linkedin](https://www.linkedin.com/in/arthurgm/)
-- 🔭 I’m currently working with delivery apps made with AngularJS and React
-- 🌱 I’m currently learning Typescript
-- ⚡ Fun fact: I am very interested and have a lot of knowledge in photography and content production aligned to digital marketing 🤓. I also like to play some FPS games like Counter Strike: Global Offensive 🎮
+### Current Role
 
-</br>
+💼 Software Engineer @ Arcotech (Sep 2022 - Present)
+
+  🎯 What I'm doing:                                                                                                                                                                                        
+  - 🏗️  Modernizing legacy front-end applications → building scalable, sustainable architectures
+  - 🔗 Implementing Module Federation for microfrontends → enabling team autonomy & faster delivery
+  - ⚡ Adopting cutting-edge tech like Rspack → supercharging build performance
+  - 🛠️  Leading front-end restructuring on strategic initiatives (question bank platform, assessment system)
+  - 🎁 Delivering high-impact features → reducing manual work, streamlining operations
+  - 🤝 Cross-team collaboration → platform integrations, reporting, back-office features
+
+  ---
+#### Previous Experience
+
+  👨‍💻 Front End Developer @ 123Milhas (Nov 2020 - Aug 2022)
+
+  - 🔧 Led website restructuring with Next.js, React, Redux
+  - 📦 Built Monorepo + Micro-frontend architecture for multi-package management
+  - 🔄 Maintained & developed features in legacy AngularJS system in parallel
+  - 👥 Recruited & mentored front-end talent
+
+  🌱 Junior Full Stack Developer @ Teknisa (Apr 2019 - Oct 2020)
+
+  - 💻 Developed web apps for enterprise clients using Vue.js, TypeScript, Cordova
+  - 🔌 Back-end: PHP + MySQL databases
+
+  📚 Development Intern @ Taylor Sistemas (Jun 2018 - Mar 2019)
+
+  - 🏢 Built systems with CakePHP 3, Vue.js, MySQL
+  - 📖 Gained experience in project management & emerging technologies
+
+  🚗 Development Intern @ Grupo Otimiza (Dec 2017 - Apr 2018)
+
+  - 🛠️  Web apps in C#, ASP.NET, SQL Server (vehicle inspection systems)
+
+  ---
+
+🎓 Started as an intern (2017) → Now leading architectural modernization at Arcotech. Specialized in frontend architecture, scalability, & team enablement. Tech: React, Next.js, TypeScript, Module Federation, Rspack.
+
+📫 Reach me out! [Email](mailto:arthurgoncalvesmalheiros@gmail.com) or [Linkedin](https://www.linkedin.com/in/arthurgm/) 
 
 ![Arthur's github stats](https://github-readme-stats-selfhosted-production.up.railway.app/api?username=arthurgmalheiros&show_icons=true&theme=github_dark_dimmed&show=reviews)
-
-![Arthur's most used languages](https://github-readme-stats-selfhosted-production.up.railway.app/api/top-langs?username=arthurgmalheiros&theme=github_dark_dimmed)
