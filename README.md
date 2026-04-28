@@ -11,4 +11,6 @@ I want to contribute to a better society, developing solutions to make life easi
 
 </br>
 
-![Arthur's github stats](https://github-readme-stats.vercel.app/api?username=arthurgmalheiros&show_icons=true)
+![Arthur's github stats](https://github-readme-stats-selfhosted-production.up.railway.app/api?username=arthurgmalheiros&show_icons=true&theme=github_dark_dimmed&show=reviews)
+
+![Arthur's most used languages](https://github-readme-stats-selfhosted-production.up.railway.app/api/top-langs?username=arthurgmalheiros&theme=github_dark_dimmed)
